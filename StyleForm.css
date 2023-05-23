@@ -1,0 +1,124 @@
+body{
+	background-image: url('fondo.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.inicio{
+	width: 70%;
+	color: rgb(255, 255, 255);
+	background-color: #000000;
+	text-align: center;
+	font-family: Comic Sans MS;
+	padding: 30px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.HojaIns{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 70%;
+	text-align: center;
+	background-color: #989A9A;
+	font-family: Kristen ITC;
+	padding: 30px;
+	margin: auto;
+	margin-top: 50px;
+	color: black;
+	
+}
+
+.fech{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 70%;
+	font-family: Comic Sans MS;
+	background-color: #E9FAFC;
+	padding: 30px;
+	margin: auto;
+	color: black;
+
+	
+}
+
+.DatosP, .DatosPro, .cuestionario, .Autorizacion{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 70%;
+	background-color: #989A9A;
+	font-family: Kristen ITC;
+	margin: auto;
+	color: black;
+	
+	
+}
+
+.datp, .datpro, .cuest, .aut{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 70%;
+	font-family: Comic Sans MS;
+	background-color: #E9FAFC;
+	padding: 30px;
+	margin: auto;
+	color: black;
+
+	
+}
+
+table{
+box-shadow: 7px 13px 37px #000;
+}
+
+.in{
+	border: 1px solid #B0B0B0 ;
+	background: #E9FAFC ;
+	font-family: Comic Sans MS;
+
+}
+
+.fij{
+	padding: 30px;
+	margin: auto;
+}
+
+.cont{
+	
+}
+
+.firma{
+	text-align: center;
+	padding: 30px;
+	margin: auto;
+}
+
+.Bot{
+	text-align: center;
+	width: 70%;
+	font-family: Bahnschrift Light;
+	padding: 30px;
+	margin: auto;
+}
+.Boton{
+	width: 100px;
+	background: #4F4F4F;
+	padding: 10px;
+	color: white;
+	font-size: 16px;
+	font-family: Comic Sans MS;
+	border-radius: 6px;
+	cursor: pointer;
+}
+.Boton:hover {
+background: cadetblue;
+}
+
+.link{
+	text-decoration: none;
+	color: #4F4F4F;
+	font-weight: 600;
+}
+.link:hover {
+	color: cadetblue;
+}
